@@ -1,0 +1,32 @@
+name: starbhak_mart
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images/kentangFix.png
+  - images/burg.png
+  - images/cola.png
+  - images/Cheeseburger.png
+  - images/FrenchFries.png
+  - images/EGGSANDWICH.png
+  - images/Soda.png
+  - images/hotdog.png
+  - images/icedtea.png
+  - images/LogoRPL.png
+  - images/logo_market.png
